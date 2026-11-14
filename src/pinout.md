@@ -1,8 +1,9 @@
-Walker3s pinout
+# Walker3s pinout
 
-Распиновка платы:
+## Распиновка платы:
+
 | pin | Blue edition | Gren edition |
-
+| --- | ----| ------|
 | D0 | Bluetooth | Bluetooth |
 
 | D1 | Bluetooth | Bluetooth |
