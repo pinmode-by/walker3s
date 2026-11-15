@@ -1,7 +1,6 @@
-# Walker3s
-Multi-pupose PCB based on Arduino nano
+# Walker3s: multi-pupose PCB based on Arduino nano
 
-Многофункциональная плата для создания роботов на Arduino nano:
+## Многофункциональная плата для создания роботов на Arduino nano:
 * Следования по линии
 * Шагающих роботов
 * Мини-сумо 10*10
@@ -24,3 +23,8 @@ Multi-pupose PCB based on Arduino nano
 * Защиту от переполюсовки
 * Схему коммутации питания
 
+## Синяя версия (2024)
+<img src="/img/walker3s_blue.jpg"  width="800"/>
+
+## Зеленая версия (2025)
+<img src="/img/walker3s_green.jpg"  width="800"/>
