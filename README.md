@@ -24,10 +24,10 @@
 * Схему коммутации питания
 
 ## Синяя версия (2024)
-### [Распиновка](/src/readme.md) 
+### [Распиновка, ](/src/readme.md) [Пример 1, ](/src/walker3s_test_button.ino) [Пример 2](/src/walker3s_test_BT.ino) 
 
 <img src="/img/walker3s_blue.jpg"  width="800"/>
 
 ## Зеленая версия (2025)
-### [Распиновка](/src/readme.md) 
+### [Распиновка, ](/src/readme.md) [Пример 1, ](/src/walker3s_green_test_button.ino) [Пример 2](/src/walker3s_green_test_BT.ino) 
 <img src="/img/walker3s_green.jpg"  width="800"/>
