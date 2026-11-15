@@ -1,7 +1,7 @@
 // Walker 3s test
 // GREEN EDITION
 // button control
-// Arduino nano, 2*TA6586, Servo, 2 LED, 1 button
+// Arduino nano, 2*TA6586, Servo, 4 LED, 1 button
 // 15.11.2026
 
 
